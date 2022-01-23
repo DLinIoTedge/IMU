@@ -1,12 +1,20 @@
 # IMU
 Code is in Scilab
 
-// output ...
-//   eangle  ...euler  angle
-//   gryo
-//   acc
-//   mag
-//
-//  Input
-//      fname ..  9 axis sensor samples collected from PPN via UART
-//      rowval ... noumber of readings ..need to be processed
+ ### output
+ <ul>
+  <li>  eangle  ...euler  angle </li>
+   <li> gryo  </li>
+   <li> acc  </li>
+   <li> mag </li>
+  </ul>
+  
+
+###  Input
+
+ <ul>
+  <li>  fname ..  9 axis sensor samples collected from PPN via UART  </li>
+   <li> rowval ... noumber of readings ..need to be processed </li>
+  </ul>
+      
+     
