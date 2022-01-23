@@ -17,4 +17,5 @@ Code is in Scilab
    <li> rowval ... noumber of readings ..need to be processed </li>
   </ul>
       
-     
+      
+    ##  function [eangle, gyro, acc, magV] = imuval(fname)
