@@ -14,7 +14,7 @@ Code is in Scilab
 
  <ul>
   <li>  fname ..  9 axis sensor samples collected from PPN via UART  </li>
-   <li> rowval ... noumber of readings ..need to be processed </li>
+   <li>  removed in current version ...rowval ... noumber of readings ..need to be processed </li>
   </ul>
       
       
