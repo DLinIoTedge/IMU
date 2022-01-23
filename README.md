@@ -19,3 +19,8 @@ Code is in Scilab
       
       
   ##  function [eangle, gyro, acc, magV] = imuval(fname)
+  
+
+## function FilterSensorData(fname)
+ - ////  filter 9 axis data by using IIR filter
+ - //    function FilterSensorData(fname,rowval)
