@@ -18,4 +18,4 @@ Code is in Scilab
   </ul>
       
       
-    ##  function [eangle, gyro, acc, magV] = imuval(fname)
+  ##  function [eangle, gyro, acc, magV] = imuval(fname)
